@@ -1,0 +1,10 @@
+{
+  "name": "bot-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^3.0.1",
+    "standard": "^11.0.1"
+  }
+}
